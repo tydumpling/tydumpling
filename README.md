@@ -17,6 +17,8 @@
     <img src="https://komarev.com/ghpvc/?username=tydumpling&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
+![暗色](https://raw.githubusercontent.com/tydumpling/tydumpling/output/github-contribution-grid-snake-dark.svg)
+![亮色](https://raw.githubusercontent.com/tydumpling/tydumpling/output/github-contribution-grid-snake.svg)
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tydumpling/tydumpling/output/github-contribution-grid-snake-dark.svg">
