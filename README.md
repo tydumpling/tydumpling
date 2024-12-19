@@ -25,9 +25,6 @@
 </picture>
 
 </div>
-
-#  🙋 Hello
-
 <table>
   
 <tr><td>
@@ -69,26 +66,5 @@
   <img src="https://streak-stats.demolab.com/?user=tydumpling&theme=dark&hide_border=true" />
 </picture>
 
-
-
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=tydumpling&theme=tokyo-night" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tydumpling&theme=xcode" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=tydumpling&theme=tokyo-night" />
-      </picture>
-  </tr>
-</table>
-
-
-<!-- profile-3d-contrib 3D 贡献图-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="/profile-night-rainbow.svg" />
-</picture>
 
 
